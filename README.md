@@ -20,4 +20,4 @@ Using React Native:
 - Fetch data from an external API and integrate it
 - Implement search & pagination functionality
 - Create custom API data fetching hooks
->>>>>>> 546fce3d7245c503825092df39defb5267646b0d
+
